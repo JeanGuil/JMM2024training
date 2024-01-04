@@ -1,5 +1,5 @@
 # JMM2024training
 
-**Hello World**
+<!--**Hello World**-->
 
 [**my LinkedIn**](https://www.linkedin.com/in/jeanguillaume/)
